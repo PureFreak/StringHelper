@@ -3,7 +3,7 @@
 
   <metadata>
     <id>PureFreak.StringHelper</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <title>PureFreak.StringHelper</title>
     <description>Some string helper to make the live easier.</description>
     <authors>Kai Gartenschläger</authors>
@@ -15,7 +15,7 @@
     <licenseUrl>https://raw.githubusercontent.com/PureFreak/StringHelper/master/LICENSE</licenseUrl>
     <copyright>Copyright 2018</copyright>
 
-    <releaseNotes>Moved to .net framework 4.5 version.</releaseNotes>
+    <releaseNotes>Added ParseHelper.</releaseNotes>
 
     <!--<tags></tags>-->
   </metadata>
@@ -23,6 +23,7 @@
   <files>
     <file src="bin\Release\PureFreak.StringHelper.dll" target="lib\net45" />
     <file src="bin\Release\PureFreak.StringHelper.pdb" target="lib\net45" />
+    <file src="bin\Release\PureFreak.StringHelper.xml" target="lib\net45" />
   </files>
 
 </package>
