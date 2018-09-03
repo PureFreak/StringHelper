@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Md5Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplaceTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
