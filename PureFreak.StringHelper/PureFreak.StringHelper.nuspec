@@ -3,7 +3,7 @@
 
   <metadata>
     <id>PureFreak.StringHelper</id>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <title>PureFreak.StringHelper</title>
     <description>Some string helper to make the live easier.</description>
     <authors>Kai Gartenschläger</authors>
@@ -15,7 +15,7 @@
     <licenseUrl>https://raw.githubusercontent.com/PureFreak/StringHelper/master/LICENSE</licenseUrl>
     <copyright>Copyright 2018</copyright>
 
-    <releaseNotes>Added ParseHelper.</releaseNotes>
+    <releaseNotes>Added ReplaceIgnoreCase</releaseNotes>
 
     <!--<tags></tags>-->
   </metadata>
